@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DML-ds
 - 👀 I specialize in Data Science & Machine Learning
-- 🌱 I’m proficient in R, Python, SQL, Matplotlib and SciLearn
+- 🌱 I’m proficient in R, Python, SQL, Matplotlib and ScikitLearn
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me ...(whatsapp/ Call: (+44)7481900031, E-mail: dorogun360@gmail.com)
 
